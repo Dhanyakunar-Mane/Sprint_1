@@ -1,45 +1,12 @@
-````md id="github-readme-premium"
+# 💳 Credit Card Fraud Risk Analysis
 
-# 💳🔐 Credit Card Fraud Risk Analysis
+## 📊 Dashboard Preview
 
-<p align="center">
-  <h1 align="center">📊 Credit Card Fraud Risk Analysis Dashboard</h1>
-  <p align="center">
-    Built using Excel • Power BI • DAX • Power Query
-  </p>
-</p>
+### 📈 Excel Dashboard
+![Excel Dashboard](Excel%20Dashboard.png)
 
----
-
-## 🚀 Project Overview
-
-This project analyzes credit card transaction data to identify fraud patterns, transaction risks, and business insights through interactive dashboards.
-
-✨ Features:
-- 📈 Transaction Analysis
-- 🛡️ Fraud Detection Insights
-- 🌍 State & City Analysis
-- 📊 KPI Monitoring
-- 📅 Trend Analysis
-- 🎯 Interactive Dashboard
-
----
-
-# 🖼️ Dashboard Preview
-
-## 📗 Excel Dashboard
-
-<p align="center">
-<img src="./Excel Dashboard.png" width="950">
-</p>
-
----
-
-## 📘 Power BI Dashboard
-
-<p align="center">
-<img src="./Power Bi Dashboard.png" width="950">
-</p>
+### 📉 Power BI Dashboard
+![Power BI Dashboard](Power%20Bi%20Dashboard.png)
 
 ---
 
@@ -47,121 +14,171 @@ This project analyzes credit card transaction data to identify fraud patterns, t
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-
-<img src="https://img.shields.io/badge/DAX-FFB300?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Power_Query-742774?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Data_Analytics-4285F4?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Data_Cleaning-0F9D58?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Data_Visualization-FF6F00?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Dashboard_Design-E91E63?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Business_Intelligence-1E88E5?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Reporting-8E24AA?style=for-the-badge">
+<img src="https://skillicons.dev/icons?i=excel" height="70"/>
+<img src="https://skillicons.dev/icons?i=powerbi" height="70"/>
 
 </p>
 
----
+<p align="center">
 
-# 🎯 Objectives
+<img src="https://img.shields.io/badge/🔄_Power_Query-742774?style=for-the-badge">
 
-✅ Analyze fraud transaction patterns  
-✅ Monitor fraud risk level  
-✅ Compare state performance  
-✅ Generate business insights  
-✅ Build interactive dashboards  
+<img src="https://img.shields.io/badge/📐_DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 
----
+</p>
 
-# 🧹 Data Processing
+<p align="center">
 
-📂 Raw Dataset → `Row_Dataset.xlsx`
+<img src="https://img.shields.io/badge/📉_Data_Visualization-FF6F00?style=for-the-badge">
 
-⚙️ Cleaning Process:
-- 🧽 Removed duplicates
-- 🔄 Standardized columns
-- 📋 Checked missing values
-- 🏷️ Corrected data types
-- 📊 Created measures
+<img src="https://img.shields.io/badge/🧹_Data_Cleaning-34A853?style=for-the-badge">
 
-📂 Final Dataset → `Clean_Dataset.xlsx`
+<img src="https://img.shields.io/badge/📋_Data_Preparation-4285F4?style=for-the-badge">
 
----
+</p>
 
-# 📌 Dashboard Features
-
-### 📘 Power BI Dashboard
-- 💳 Fraud Rate KPI
-- 📈 Monthly Trend
-- 🛡️ Risk Distribution
-- 🗂️ Fraud Category Analysis
-- 🧭 Interactive Filters
-
-### 📗 Excel Dashboard
-- 📊 Transaction Overview
-- 🌆 City Wise Analysis
-- 📌 KPI Cards
-- 📉 Summary Charts
-
----
-
-# 🔍 Key Insights
-
-📌 Top fraud categories identified  
-📌 Monthly fraud trends discovered  
-📌 State-wise fraud comparison completed  
-📌 Risk-level analysis performed  
 
 ---
 
 # 🔄 Project Workflow
 
 ```text
-📂 Raw Dataset
-      ↓
+📥 Raw Dataset
+      ⬇️
 🧹 Data Cleaning
-      ↓
-📗 Excel Dashboard
-      ↓
-📘 Power BI Dashboard
-      ↓
-📊 Insights & Reporting
+      ⬇️
+📊 Excel Dashboard
+      ⬇️
+📈 Power BI Dashboard
+      ⬇️
+📑 Insights & Reporting
 ```
 
 ---
 
 # 📁 Project Files
 
-📄 `Clean_Dataset.xlsx`  
-📄 `Row_Dataset.xlsx`  
-📄 `Credit Card Fraud Risk Analysis.xlsx`  
-📄 `Credit Card Fraud Risk Analysis.pbix`  
-🖼️ `Excel Dashboard.png`  
-🖼️ `Power Bi Dashboard.png`  
+| 📄 File Name | 📌 Description |
+|--------------|----------------|
+| `Clean_Dataset.xlsx` | Cleaned dataset used for dashboard development |
+| `Row_Dataset.xlsx` | Raw dataset before cleaning |
+| `Credit Card Fraud Risk Analysis.xlsx` | Excel analysis and dashboard |
+| `Excel Dashboard.png` | Screenshot of Excel dashboard |
+| `Credit Card Fraud Risk Analysis.pbix` | Power BI dashboard file |
+| `Power Bi Dashboard.png` | Power BI dashboard preview |
+| `README.md` | Project documentation |
 
 ---
 
-# 🌟 Future Improvements
+# 🎯 Project Objectives
 
-🚀 Real-time Dashboard  
-🤖 Fraud Prediction Model  
-📡 Power BI Service Deployment  
-📉 Advanced DAX Measures  
+- ✅ Analyze fraudulent transaction behavior
+- 📈 Monitor fraud rates and transaction trends
+- 🚨 Identify high-risk categories
+- 🗺️ Compare fraud activity across states
+- 📊 Visualize insights for better business decisions
+
+---
+
+# 🛠️ Tools & Technologies
+
+- 📊 Microsoft Excel
+- 📈 Power BI
+- 🔄 Power Query
+- 📐 DAX
+- 📉 Data Visualization
+- 🧹 Data Preparation
+
+---
+
+# 📥 Raw Dataset
+
+- 📂 Imported transaction records
+- 🔍 Checked missing values
+- 🗑️ Removed duplicate records
+- 📝 Standardized column names
+
+---
+
+# 🧹 Data Cleaning
+
+- 🔄 Converted data types
+- ✔️ Validated records
+- 📐 Created calculated measures
+- 📊 Prepared an analysis-ready dataset
+
+**📤 Output:** `Clean_Dataset.xlsx`
+
+---
+
+# 📊 Dashboard Features
+
+## 📈 Excel Dashboard
+
+- 📌 Total Transactions KPI
+- 💰 Transaction Overview
+- 🏙️ City-wise Analysis
+- 📊 Interactive Charts
+- 🎨 Clean & User-Friendly UI
+
+### 📉 Power BI Dashboard
+
+- 📊 Fraud Rate (%)
+- 🚨 Fraudulent Transactions
+- ⚠️ Critical Risk Analysis
+- 📈 Fraud by Risk Level
+- 🗺️ Fraud by State
+- 📅 Fraud by Month
+- 💳 Fraud Type Analysis
+- 🎛️ Interactive Filters & Slicers
+
+---
+
+# 💡 Key Insights
+
+- 🔍 Identified top fraud categories
+- 📈 Detected monthly fraud trends
+- 🗺️ Compared fraud distribution across states
+- 🚨 Highlighted critical-risk transactions
+- 📊 Enabled data-driven decision making
+
+---
+
+# 🔄 Project Workflow
+
+```text
+📥 Raw Dataset
+      ⬇️
+🧹 Data Cleaning
+      ⬇️
+📊 Excel Analysis
+      ⬇️
+📈 Power BI Dashboard
+      ⬇️
+📑 Insights & Reporting
+```
+
+# 🚀 How to Use
+
+1. 📥 Download the repository files.
+2. 📂 Open **Credit Card Fraud Risk Analysis.pbix** in Power BI Desktop.
+3. 🔄 Refresh the dataset connection (if required).
+4. 📊 Explore interactive dashboards using filters and slicers.
+
+---
+
+# 🔮 Future Improvements
+
+- ⚡ Add real-time data refresh
+- 🤖 Build a fraud prediction model using Machine Learning
+- 🔍 Add drill-through reports
+- 📐 Develop advanced DAX measures
+- ☁️ Deploy the dashboard to Power BI Service
 
 ---
 
 # 👨‍💻 Author
 
-### Dhanyakumar Mane
+**Dhanyakumar Mane**
 
-⭐ If you like this project, give it a star.
-
-````
+⭐ If you found this project useful, consider giving the repository a **Star**!
